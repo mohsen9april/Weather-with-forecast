@@ -54,6 +54,9 @@
 		ED3B4ACE2299D82E003E3425 /* Weather with forecast */ = {
 			isa = PBXGroup;
 			children = (
+				ED3B4AE32299D8A5003E3425 /* Controller */,
+				ED3B4AE22299D89F003E3425 /* View */,
+				ED3B4AE12299D898003E3425 /* Model */,
 				ED3B4ACF2299D82E003E3425 /* AppDelegate.swift */,
 				ED3B4AD12299D82E003E3425 /* ViewController.swift */,
 				ED3B4AD32299D82E003E3425 /* Main.storyboard */,
@@ -62,6 +65,27 @@
 				ED3B4ADB2299D82F003E3425 /* Info.plist */,
 			);
 			path = "Weather with forecast";
+			sourceTree = "<group>";
+		};
+		ED3B4AE12299D898003E3425 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ED3B4AE22299D89F003E3425 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		ED3B4AE32299D8A5003E3425 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
